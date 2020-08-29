@@ -9,4 +9,4 @@ Me chamo Derick, Prazer :wink:
 - Gosto de desenvolver em:  PHP, JavaScript, C# e Java.
 
 - Frameworks: React/ React Native/ Bootstrap.
-- 📫 Contato: <a href="mailto:derickalmeidariedel@gmail.com"></a>
+- 📫 Contato: <a href="mailto:derickalmeidariedel@gmail.com">Gmail</a>
