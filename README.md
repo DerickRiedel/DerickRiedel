@@ -1,11 +1,12 @@
-### Hi there 👋
-
+## Hi there 👋
 <!--
 **DerickRiedel/DerickRiedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning React/ React Native...
-- 🤔 I’m looking for help with Front-end
-- 📫 How to reach me: derickalmeidariedel@gmail.com
 -->
+Me chamo Derick, Prazer :wink: 
+
+- 🌱 Atualmente, estou aprendendo React/ React Native...
+
+- Gosto de desenvolver em:  PHP, JavaScript, C# e Java.
+
+- Frameworks: React/ React Native/ Bootstrap.
+- 📫 Contato: <a href="mailto:derickalmeidariedel@gmail.com"></a>
