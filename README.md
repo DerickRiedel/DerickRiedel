@@ -10,3 +10,5 @@ Me chamo Derick, Prazer :wink:
 
 - Frameworks: React/ React Native/ Bootstrap.
 - 📫 Contato: derickalmeidariedel@gmail.com
+
+-----------------------------------------------------------
