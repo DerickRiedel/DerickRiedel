@@ -1,14 +1,9 @@
-## Hi there 👋
-<!--
-**DerickRiedel/DerickRiedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Olá 👋
+
 Me chamo Derick, Prazer :wink: 
 
-- 🌱 Atualmente, estou aprendendo React/ React Native...
+<div>
+  <a href="https://github.com/DerickRiedel">
+    <img source="[![Derick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derickriedel)](https://github.com/derickriedel/github-readme-stats)" />
+</div>
 
-- Gosto de desenvolver em:  PHP, JavaScript, C# e Java.
-
-- Frameworks: React/ React Native/ Bootstrap.
-- 📫 Contato: derickalmeidariedel@gmail.com
-
------------------------------------------------------------
